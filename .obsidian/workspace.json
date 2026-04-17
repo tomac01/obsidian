@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6990a5ea435141d3",
+        "id": "29425cae260581ab",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf7d4b6dae1e347",
+            "id": "305963e0c89f16f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Unbenannt"
             }
           }
         ]
@@ -176,11 +180,13 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "git-integration:Open git menu": false
     }
   },
-  "active": "9bf7d4b6dae1e347",
+  "active": "305963e0c89f16f6",
   "lastOpenFiles": [
+    "Unbenannt.md",
     "Willkommen.md",
     "Unbenannt.base"
   ]
