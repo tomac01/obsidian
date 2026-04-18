@@ -11,13 +11,14 @@
             "id": "d9eea69275921615",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Unbenannt.base",
-                "viewName": "Tabelle"
+                "file": "Willkommen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Willkommen"
             }
           }
         ]
@@ -193,10 +194,10 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "b67f2c50a572681b",
+  "active": "d9eea69275921615",
   "lastOpenFiles": [
-    "Unbenannt.md",
     "Unbenannt.base",
+    "Unbenannt.md",
     "Willkommen.md"
   ]
 }
