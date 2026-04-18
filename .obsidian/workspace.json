@@ -163,13 +163,23 @@
               "icon": "lucide-list",
               "title": "Gliederung von Willkommen"
             }
+          },
+          {
+            "id": "b67f2c50a572681b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +193,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "d9eea69275921615",
+  "active": "b67f2c50a572681b",
   "lastOpenFiles": [
     "Unbenannt.md",
     "Unbenannt.base",
