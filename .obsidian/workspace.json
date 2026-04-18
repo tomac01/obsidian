@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bdab3223f1b5cb19",
+        "id": "35add67effea55b6",
         "type": "tabs",
         "children": [
           {
-            "id": "d9eea69275921615",
+            "id": "66c6310c8467f8e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Willkommen.md",
-                "mode": "source",
-                "source": false
+                "file": "Unbenannt.base",
+                "viewName": "Tabelle"
               },
-              "icon": "lucide-file",
-              "title": "Willkommen"
+              "icon": "lucide-table",
+              "title": "Unbenannt"
             }
           }
         ]
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Unbenannt.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Willkommen"
+              "title": "Gliederung von Unbenannt"
             }
           },
           {
@@ -194,10 +193,10 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "d9eea69275921615",
+  "active": "66c6310c8467f8e6",
   "lastOpenFiles": [
-    "Unbenannt.base",
     "Willkommen.md",
+    "Unbenannt.base",
     "Unbenannt.md"
   ]
 }
